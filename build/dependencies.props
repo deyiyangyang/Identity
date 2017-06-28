@@ -7,7 +7,7 @@
     <CoreFxVersion>4.4.0-*</CoreFxVersion>
     <IdentityEFCompatVersion>2.2.1</IdentityEFCompatVersion>
     <InternalAspNetCoreSdkVersion>2.1.0-*</InternalAspNetCoreSdkVersion>
-    <MoqVersion>4.7.1</MoqVersion>
+    <MoqVersion>4.7.49</MoqVersion>
 
     <NETStandardLibraryNETFrameworkVersion>2.0.0-*</NETStandardLibraryNETFrameworkVersion>
     <OwinSecurityVersion>3.0.1</OwinSecurityVersion>
